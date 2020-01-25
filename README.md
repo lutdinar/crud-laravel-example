@@ -26,7 +26,7 @@ This project is example app using framework Laravel and implemented ORM techniq 
 Database in project using postgresql for save data using Eloquent ORM and using API.
 Connect API using plugin GuzzleHttp for handling request from app to API.
 
-For running this project on device need composer for install/update depedencies, include update version.
+For running this project on device need composer for install/update dependencies, include update version.
 And don't forget to migrate using php artisan for create table on database and dummy data using syntax 'php artisan migrate:refresh --seed'. after migrate, you can start running project on local development using 'php artisan serve'
 
 This project not includes API directory! API on this project, I saved to more repository (check repository me)
